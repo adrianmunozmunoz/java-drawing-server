@@ -1,4 +1,0 @@
-1 Circulo 5 5 10
-2 Rectangulo 2 3 8 4
-3 Punto 7 7
-4 Elipse 10 10 6 3
